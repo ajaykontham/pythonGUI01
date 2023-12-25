@@ -1,0 +1,3 @@
+([('aesBase64CertCheck',
+   '/Users/ajaykontham/Work/VSCodeProjects/Python/pythonGUI01/dist/aesBase64CertCheck',
+   'EXECUTABLE')],)
